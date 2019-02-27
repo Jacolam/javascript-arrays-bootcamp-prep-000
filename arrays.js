@@ -9,5 +9,5 @@
     return array 
  }
  
-   function addElementToBeginningOfArray(chocolateBars, addBar) {
-    return [addBar,...chocolateBars]}
+   function addElementToBeginningOfArray(array, element) {
+    return [element,...array]}
