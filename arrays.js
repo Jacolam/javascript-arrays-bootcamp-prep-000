@@ -3,7 +3,7 @@
  
  function addElementToBeginningOfArray(array, element)
  {
-   return [array,...element]
+   return [element,...array]
  }
 
 
