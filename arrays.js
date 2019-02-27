@@ -22,4 +22,7 @@ function destructivelyAddElementToEndOfArray(array,element)
   retrun array
 }
 
-function
+function accessElementInArray(array,index)
+{
+return array[index]
+}
