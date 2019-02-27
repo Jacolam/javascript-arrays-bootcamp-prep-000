@@ -22,4 +22,6 @@ function destructivelyAddElementToBeginningOfArray(array,element){
   return array[index]
  }
  
- function 
+ function destructivelyRemoveElementFromBeginningOfArray(array){
+   
+ }
